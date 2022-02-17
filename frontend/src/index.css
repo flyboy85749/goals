@@ -93,7 +93,7 @@ h3 {
 }
 
 .goal {
-  background-color: #f4f4f4;
+  background-color: #cecbcb;
   margin: 10px 0;
   padding: 20px 0 10px;
   position: relative;
@@ -106,6 +106,7 @@ h3 {
   cursor: pointer;
   border: none;
   background: none;
+  color: red;
 }
 
 .form,
